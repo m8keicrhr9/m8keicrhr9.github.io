@@ -15,10 +15,10 @@ window.addEventListener("load", () => {
     instance_url: "https://mastodon.online",
 
     // Choose type of toots to show in the timeline: 'local', 'profile', 'hashtag'. Default: local
-    timeline_type: "local",
+    timeline_type: "profile",
 
     // Your user ID on Mastodon instance. Leave empty if you didn't choose 'profile' as type of timeline
-    user_id: "",
+    user_id: "110788774463199374",
 
     // Your user name on Mastodon instance. Leave empty if you didn't choose 'profile' as type of timeline
     profile_name: "",
